@@ -1,5 +1,5 @@
 # Bone Fracture Detection
-3rd Year College Project
+final Year College Project
 
 ### Note:
 The manual folder contains work that detects the location and severity level of bone fractures in a given X-ray image.
